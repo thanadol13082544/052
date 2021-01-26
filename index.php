@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "My first PHP script!";
+echo "ไม่มีเงินค่า ขอเงินหน่อยค่าา!";
 ?>
 
 </body>
